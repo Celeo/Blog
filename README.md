@@ -2,7 +2,7 @@
 
 ## 2018
 
-* [Travis CI and vgo](/posts/2018/travis-and-vgo.md)
+* [Travis CI, Codecov, and vgo](/posts/2018/travis-codecov-vgo.md)
 
 ## 2017
 
