@@ -1,5 +1,9 @@
 # My blog posts
 
+## 2018
+
+* [Travis CI and vgo](/posts/2018/travis-and-vgo.md)
+
 ## 2017
 
 ## 2016
